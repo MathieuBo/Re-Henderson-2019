@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber article"] 1617802274 "article.bcf" "article.bbl" "article" 1617803683
-  "article.bcf" 1617803631 91240 fb89ab81083a6c35dacdc790a175ef1f "pdflatex"
+["biber article"] 1617802274 "article.bcf" "article.bbl" "article" 1617804511
+  "article.bcf" 1617803686 91240 fb89ab81083a6c35dacdc790a175ef1f "pdflatex"
   "bibliography.bib" 1617800530 4908 14d08dc82f8013a45ebf354037387a98 ""
   (generated)
   "article.blg"
   "article.bbl"
-["pdflatex"] 1617803683 "article.tex" "article.pdf" "article" 1617803683
-  "/dev/null" 1617803682 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1617804511 "article.tex" "article.pdf" "article" 1617804511
+  "/dev/null" 1617804505 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -203,19 +203,19 @@
   "Figures/Fig3_B.pdf" 1617791705 450631 67f0d95e5bfcbf72e5d4d988acfe7467 ""
   "Figures/Fig4.pdf" 1617791715 180666 a0d4d7a5c7ef84846584257fcce7dd96 ""
   "Figures/Fig5.pdf" 1617791727 446590 eee78c66c62c7c43844eda66e18a7ecd ""
-  "article.aux" 1617803631 9628 16e4cea30f326d8addc3cad71ea1a543 "pdflatex"
+  "article.aux" 1617803686 10827 6a7fed99e86c6b6c466a54c2999b9459 "pdflatex"
   "article.bbl" 1617802275 25968 698d8feb9f5e5959f87f314eb1841dcc "biber article"
-  "article.out" 1617803631 934 b86cbfa071379a08e6a13fe2ddb17096 "pdflatex"
-  "article.run.xml" 1617803631 2429 bb3cd8c5c8f3243a6e2037a1c8323856 "pdflatex"
+  "article.out" 1617803686 934 b86cbfa071379a08e6a13fe2ddb17096 "pdflatex"
+  "article.run.xml" 1617803686 2429 bb3cd8c5c8f3243a6e2037a1c8323856 "pdflatex"
   "article.tex" 1617783401 230 88cacae340cd5e0390fa8334f01585d4 ""
   "content.tex" 1617803681 24909 621a6d835ccc9191bbb0b2b710ff7e66 ""
   "header.tex" 1617783401 3534 6b05e0c01e3066a3f9f2fd9479cf3645 ""
-  "metadata.tex" 1617793912 1529 fa636803a8ff791cbbebfbdc5869a231 ""
+  "metadata.tex" 1617804511 1537 96c9fb32a62fc952c3734cc7349f5a9e ""
   "rescience.cls" 1617783401 12764 29d93eea55b386a6bcc39c1378b403ad ""
   (generated)
+  "article.run.xml"
+  "article.bcf"
+  "article.aux"
+  "article.log"
   "article.out"
   "article.pdf"
-  "article.bcf"
-  "article.run.xml"
-  "article.log"
-  "article.aux"
