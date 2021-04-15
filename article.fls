@@ -351,11 +351,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT Figures/Fig1.pdf
 INPUT Figures/Fig2.pdf
-INPUT Figures/Fig3_A.pdf
-INPUT Figures/Fig3_B.pdf
-INPUT Figures/Fig4.pdf
-INPUT Figures/Fig5.pdf
+INPUT Figures/Fig3.pdf
 INPUT article.aux
 INPUT ./article.out
 INPUT article.run.xml
