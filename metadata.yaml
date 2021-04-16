@@ -11,7 +11,7 @@ title: "[Re] Spread of alpha-synuclein pathology through the brain connectome is
 # Affiliation "*" means contact author (required even for single-authored papers)
 authors:
   - name: Thomas E. Paul
-    orcid:
+    orcid: 0000-0003-2311-357X
     email: thomas.paul2703@gmail.com
     affiliations: 1,2
 
@@ -41,21 +41,21 @@ keywords: Neuroscience, Alpha-synuclein, Propagation, Python
 # Software Heritage.
 #   see https://guides.github.com/activities/citable-code/
 code:
-  - url:
+  - url: https://github.com/MathieuBo/PathoSpreading
   - doi:
   - swh:
 
 # Data URL and DOI (optional if no data)
 data:
-  - url:
+  - url: https://github.com/MathieuBo/PathoSpreading
   - doi:
 
 # Information about the original article that has been replicated
 replication:
- - cite: # Full textual citation
- - bib:  # Bibtex key (if any) in your bibliography file
- - url:  # URL to the PDF, try to link to a non-paywall version
- - doi:  # Regular digital object identifier
+ - cite: Henderson, M.X., Cornblath, E.J., Darwich, A. et al. Spread of α-synuclein pathology through the brain connectome is modulated by selective vulnerability and predicted by network analysis. Nat Neurosci 22, 1248–1257 (2019). https://doi.org/10.1038/s41593-019-0457-5
+ - bib:  Henderson_2019
+ - url:  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6662627/
+ - doi:  10.1038/s41593-019-0457-5
 
 # Don't forget to surround abstract with double quotes
 abstract: "Abstract to add in metadata."
