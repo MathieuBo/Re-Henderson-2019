@@ -79,7 +79,7 @@ Henderson et al. coded their model using R and MATLAB. Codes and dataset were ma
 \subsection{Network model of pathological $\alpha$-synuclein spread}
 The model comprises a single free parameter $c$, the seed's diffusivity coefficient, that is used to scale the model to experimental results. The model is initiated by creating the seed vector $x_{0}$ for the inoculated region: here the caudoputamen (CPu). Then, the model iterates over possible the values of $c \in [0, 10]$. We selected the value of $c$ that maximizes model fit, defined as the Pearson's correlation $r$ between $\log_{10}x_{t}$ and $\log_{10}\widehat{x_{t}}$ averaged over all timepoints. \textbf{Table 2} summarizes the results including selected $c$ value and correlation results. Correlation results for each timepoints are also plotted in \textbf{Figure 1A-C} (to be compared with Figure4a from the original article). Overall, we obtained a perfect replication, both quantitatively and qualitatively, of the original published results.\\
 
-\begin{table}[ht]
+\begin{table}[h]
   \begin{center}
     \centering
     
@@ -154,7 +154,7 @@ To determine whether model performance could be improved by the addition of othe
 
 Model fitting and performance estimation remained similar. Incorporation of $\alpha$-synuclein trancript's levels in the network diffusion model improved model performance by up 12\% of added explained variance (\textbf{Figure 2F-H}). Here also, we perfectly replicated the original results both qualitatively (shown in \textbf{Figure 2F-H}) and quantitatively (shown in \textbf{Table 3}). Overall, these data suggest that \textit{SNCA} gene expression is an important factor impacting the vulnerability of regions and subsequently pathology spread. 
 
-\begin{table}[ht]
+\begin{table}[h]
   \begin{center}
     \centering
    
@@ -191,7 +191,7 @@ To examine the generalizability of the model (\textit{i.e.} the ability to apply
     \includegraphics[width=\linewidth]{Figures/Fig3.pdf}
 
     \caption{\textbf{\textit{In silico} seeding of alternative regions in the mouse brain} 
-    Predicted p-$\alpha$-syn staining after \textit{in silico} seeding in the Piriform Cortex (\textbf{A}) or the Substantia Nigra (\textbf{B}) The injection site is indicated on each slice by a blue asterisk. Both Figure A and B are displayed using the \textit{Brainrender} package \cite{Claudi_2021}.}
+    Predicted p-$\alpha$-syn staining after \textit{in silico} seeding in the Piriform Cortex (\textbf{A}) or the Substantia Nigra (\textbf{B}) The injection site is indicated on each slice by a blue asterisk. Both Figure A and B are displayed using the \textit{Brainrender} package \cite{Claudi_2021}. \textbf{Note}: Henderson et al. used a divergent colormap to represent a continous value, hence making it difficult to interpret regional variations. We here chose a sequential continuous colormap to improve the understanding.}
     \label{fig:fig3}
 \end{figure}
     
