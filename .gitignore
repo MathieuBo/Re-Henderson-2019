@@ -8,4 +8,5 @@
 *.bcf
 *.run.xml
 *.out
-
+.DS_Store
+__pycache__
