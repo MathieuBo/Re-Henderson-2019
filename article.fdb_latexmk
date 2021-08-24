@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber article"] 1618563816 "article.bcf" "article.bbl" "article" 1627630585
-  "article.bcf" 1627630548 92095 8a93258383369b578774f9fe4a8cc3a7 "pdflatex"
+["biber article"] 1618563816 "article.bcf" "article.bbl" "article" 1629801446
+  "article.bcf" 1627630587 92095 8a93258383369b578774f9fe4a8cc3a7 "pdflatex"
   "bibliography.bib" 1618560234 11972 adf1726b88ce78da06bee78ce2cc23b2 ""
   (generated)
-  "article.bbl"
   "article.blg"
-["pdflatex"] 1627630585 "article.tex" "article.pdf" "article" 1627630585
-  "/dev/null" 1627630583 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "article.bbl"
+["pdflatex"] 1629801446 "article.tex" "article.pdf" "article" 1629801446
+  "/dev/null" 1629801434 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -201,19 +201,19 @@
   "Figures/Fig1.pdf" 1618497963 722659 a27df9fa6180504236c1c53d4bb96725 ""
   "Figures/Fig2.pdf" 1618498865 1594841 f7cf484c2799071ce947baf6f62903ba ""
   "Figures/Fig3.pdf" 1618498852 1582558 e5012b2bc87ebbeccda341cbe183f4ac ""
-  "article.aux" 1627630548 12627 75252e2630d1e6064513964c200a7545 "pdflatex"
+  "article.aux" 1627630587 12627 679adb3e66e8ea6e57736d7c28804121 "pdflatex"
   "article.bbl" 1618563817 50381 51dfd60730032a3de1847ec106569cc2 "biber article"
-  "article.out" 1627630548 819 14b70ff703fe7be5fc240d095ddf4e32 "pdflatex"
-  "article.run.xml" 1627630548 2429 bb3cd8c5c8f3243a6e2037a1c8323856 "pdflatex"
+  "article.out" 1627630587 819 14b70ff703fe7be5fc240d095ddf4e32 "pdflatex"
+  "article.run.xml" 1627630587 2429 bb3cd8c5c8f3243a6e2037a1c8323856 "pdflatex"
   "article.tex" 1618473640 230 88cacae340cd5e0390fa8334f01585d4 ""
-  "content.tex" 1627630583 24123 6606223a50ec657ce929b2f278a2fa18 ""
+  "content.tex" 1629801407 24123 70eb36b8abf70a5b52f47224280a9011 ""
   "header.tex" 1618473640 3534 6b05e0c01e3066a3f9f2fd9479cf3645 ""
   "metadata.tex" 1618567128 2011 d0fc7f44fa96f067d007b5571a6a153a ""
   "rescience.cls" 1618473640 12764 29d93eea55b386a6bcc39c1378b403ad ""
   (generated)
-  "article.aux"
-  "article.out"
-  "article.bcf"
-  "article.pdf"
-  "article.run.xml"
   "article.log"
+  "article.pdf"
+  "article.out"
+  "article.aux"
+  "article.bcf"
+  "article.run.xml"
