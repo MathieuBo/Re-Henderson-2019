@@ -1,8 +1,12 @@
 # Replication of [Henderson et al. 2019](https://www.nature.com/articles/s41593-019-0457-5)
 Mathieu Bourdenx - Thomas E. Paul - 2021
 
-This repository contains the article and figures submitting for consideration at [ReScience C](https://rescience.github.io/). 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5379631.svg)](https://doi.org/10.5281/zenodo.5379631)
+
+This repository contains the article and figures for the replication, now published in [ReScience C](https://rescience.github.io/). 
 The code to reproduce the figures is located in another [repository](https://github.com/MathieuBo/PathoSpreading).
+
+
 
 ### [ReScience C](https://rescience.github.io/) article template
 
